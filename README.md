@@ -6,7 +6,7 @@ List of awesome tools for NextCloud and OwnCloud
 * [galleryplus](https://github.com/oparoz/galleryplus) - Extended gallery app for NC
 * [locationtracker](https://github.com/schiessle/locationtracker) - Track devices with ownTracks
 * [nextcloud-keeweb](https://github.com/jhass/nextcloud-keeweb) - A KeePass password manager in NC
-* [nextcloud-paper](https://github.com/andreasjacobsen93/nextcloud-paper) - Instapaper clone for NC *deprecated*
+* [nextcloud-paper](https://github.com/andreasjacobsen93/nextcloud-paper) - Instapaper clone for NC (*deprecated*)
 * [nextcloud-terminal](https://github.com/gabor-udvari/nextcloud-terminal) - Xterm compatible terminal for NC
 * [nextcloudTaskToMap](https://github.com/valentinbonneaud/nextcloudTaskToMap) - Display a map with the locations from tasks
 * [ocr](https://github.com/janis91/ocr) - OCR processing for images and PDF in NC
@@ -16,6 +16,7 @@ List of awesome tools for NextCloud and OwnCloud
 * [searchlight](https://github.com/icewind1991/searchlight) - Fuzzy search for NC
 * [timetracker](https://github.com/jakobsack/timetracker) - A time tracker for nextcloud
 * [vinecellar](https://github.com/ChristophWurst/vinecellar) - A simple vine downloader for NC
+
 ### Official
 * [activity](https://github.com/nextcloud/activity) - Activity app for NC
 * [bookmarks](https://github.com/nextcloud/bookmarks) - Bookmarks app for NC
