@@ -14,6 +14,7 @@ List of awesome tools for NextCloud and OwnCloud
 * [polls](https://github.com/v1r0x/polls) - Polls app for NC
 * [quicknotes](https://github.com/matiasdelellis/quicknotes) - Notes app for NC
 * [searchlight](https://github.com/icewind1991/searchlight) - Fuzzy search for NC
+* [ShareRenamer](https://github.com/DecaTec/sharerenamer) - Rename shared links
 * [timetracker](https://github.com/jakobsack/timetracker) - A time tracker for nextcloud
 * [vinecellar](https://github.com/ChristophWurst/vinecellar) - A simple vine downloader for NC
 
