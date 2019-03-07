@@ -1,21 +1,24 @@
 # awesome-nextcloud
 List of awesome tools for NextCloud and OwnCloud
 
+We encourage looking at some of the tools that are still under development or have been deprecated and consider forking
 ## Apps
 ### Unofficial
-* [galleryplus](https://github.com/oparoz/galleryplus) - Extended gallery app for NC
-* [locationtracker](https://github.com/schiessle/locationtracker) - Track devices with ownTracks
 * [nextcloud-keeweb](https://github.com/jhass/nextcloud-keeweb) - A KeePass password manager in NC
-* [nextcloud-paper](https://github.com/andreasjacobsen93/nextcloud-paper) - Instapaper clone for NC (*deprecated*)
-* [nextcloud-terminal](https://github.com/gabor-udvari/nextcloud-terminal) - Xterm compatible terminal for NC
 * [nextcloudTaskToMap](https://github.com/valentinbonneaud/nextcloudTaskToMap) - Display a map with the locations from tasks
 * [ocr](https://github.com/janis91/ocr) - OCR processing for images and PDF in NC
-* [personalfinances](https://github.com/matiasdelellis/personalfinances) - Finance manager for NC
-* [polls](https://github.com/v1r0x/polls) - Polls app for NC
+* [PhoneTrack](https://gitlab.com/eneiluj/phonetrack-oc) - Uses tracking sessions to display phones position in real time and export activity to gpx for NC
 * [quicknotes](https://github.com/matiasdelellis/quicknotes) - Notes app for NC
 * [searchlight](https://github.com/icewind1991/searchlight) - Fuzzy search for NC
 * [timetracker](https://github.com/jakobsack/timetracker) - A time tracker for nextcloud
 * [vinecellar](https://github.com/ChristophWurst/vinecellar) - A simple vine downloader for NC
+##### Under Development / Updates Needed
+* [Joyread](https://github.com/joyread/server) - A self-hosted ebook library that can be synced with NC (*Under Development*)
+* [nextcloud-terminal](https://github.com/gabor-udvari/nextcloud-terminal) - Xterm compatible terminal for NC (*Updates Needed / deprecated*)
+* [galleryplus](https://github.com/oparoz/galleryplus) - Extended gallery app for NC  (*Updates Needed*)
+* [nextcloud-paper](https://github.com/andreasjacobsen93/nextcloud-paper) - Instapaper clone for NC (*Updates Needed / deprecated*)
+* [NextNote](https://github.com/brantje/nextnote) - Evernote / OneNote style WYSIWYG note editor for NC (*Alpha Stage*)
+* [personalfinances](https://github.com/matiasdelellis/personalfinances) - Finance manager for NC (*Updates Needed /deprecated*)
 
 ### Official
 * [activity](https://github.com/nextcloud/activity) - Activity app for NC
@@ -36,6 +39,7 @@ List of awesome tools for NextCloud and OwnCloud
 * [ocsms](https://github.com/nextcloud/ocsms) - NC PhoneSync
 * [passman](https://github.com/nextcloud/passman) - Password Manager for NC
 * [passman-android](https://github.com/nextcloud/passman-android) - Android app for Passman
+* [polls](https://github.com/nextcloud/polls) - Polls app for NC
 * [quota_warning](https://github.com/nextcloud/quota_warning) - Send warnings to users
 * [richdocuments](https://github.com/nextcloud/richdocuments) - Collabora online for NC
 * [spreed](https://github.com/nextcloud/spreed) - Video & audio calls for NC
@@ -62,8 +66,6 @@ List of awesome tools for NextCloud and OwnCloud
 * [owncloud-web-migrator](https://github.com/nextcloud/owncloud-web-migrator) - Migrate from OC to NC
 * [php-static-scanner-instrumentalization](https://github.com/nextcloud/php-static-scanner-instrumentalization) - Instrumentalizes the NC PHP code to be scanned with static PHP source code scanners
 * [Roundcube-Plugin-nextCloud](https://github.com/texxasrulez/Roundcube-Plugin-nextCloud) - Open nextcloud from Roundcube
-
-## Development
 
 ### Apps
 * [android](https://github.com/nextcloud/android) - NC Android app
