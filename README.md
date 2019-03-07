@@ -13,10 +13,11 @@ We encourage looking at some of the tools that are still under development or ha
 * [timetracker](https://github.com/jakobsack/timetracker) - A time tracker for nextcloud
 * [vinecellar](https://github.com/ChristophWurst/vinecellar) - A simple vine downloader for NC
 ##### Under Development / Updates Needed
-* [Joyread](https://github.com/joyread/server) - A self-hosted ebook library that can be synced with NC (*Under Development*)
-* [nextcloud-terminal](https://github.com/gabor-udvari/nextcloud-terminal) - Xterm compatible terminal for NC (*Updates Needed / deprecated*)
 * [galleryplus](https://github.com/oparoz/galleryplus) - Extended gallery app for NC  (*Updates Needed*)
+* [Joyread](https://github.com/joyread/server) - A self-hosted ebook library that can be synced with NC (*Under Development*)
 * [nextcloud-paper](https://github.com/andreasjacobsen93/nextcloud-paper) - Instapaper clone for NC (*Updates Needed / deprecated*)
+* [nextcloud-terminal](https://github.com/gabor-udvari/nextcloud-terminal) - Xterm compatible terminal for NC (*Updates Needed / deprecated*)
+* [nextcloud-money](https://github.com/powerpaul17/nc_money) - Money app based on GnuCash for NC (*deprecated*)
 * [NextNote](https://github.com/brantje/nextnote) - Evernote / OneNote style WYSIWYG note editor for NC (*Alpha Stage*)
 * [personalfinances](https://github.com/matiasdelellis/personalfinances) - Finance manager for NC (*Updates Needed /deprecated*)
 
@@ -68,6 +69,11 @@ We encourage looking at some of the tools that are still under development or ha
 * [Roundcube-Plugin-nextCloud](https://github.com/texxasrulez/Roundcube-Plugin-nextCloud) - Open nextcloud from Roundcube
 
 ### Apps
-* [android](https://github.com/nextcloud/android) - NC Android app
+##### My Own notes 2
+* [Android](https://github.com/aykit/MyOwnNotes) - OC Android app
+##### Nextcloud
+* [Android](https://github.com/nextcloud/android) - NC Android app
 * [ios](https://github.com/nextcloud/ios) - NC iOS app
 * [windows-universal](https://github.com/nextcloud/windows-universal) - NC Windows apps
+##### Nextcloud Notes
+* [Android](https://github.com/stefan-niedermann/nextcloud-notes) - NC Android app
