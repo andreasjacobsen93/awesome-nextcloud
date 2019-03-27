@@ -22,6 +22,8 @@ We encourage looking at some of the tools that are still under development or ha
 * [nextcloud-money](https://github.com/powerpaul17/nc_money) - Money app based on GnuCash for NC (*deprecated*)
 * [NextNote](https://github.com/brantje/nextnote) - Evernote / OneNote style WYSIWYG note editor for NC (*Alpha Stage*)
 * [personalfinances](https://github.com/matiasdelellis/personalfinances) - Finance manager for NC (*Updates Needed /deprecated*)
+* [photomap](https://github.com/doc-sebastian/PhotoMap) - App for Nextcloud, that shows geotagged photos on a map (*Updates Needed*)
+* [sketch](https://github.com/ChristophWurst/sketch) - A sketching app for NC (*deprecated*)
 
 ### Official
 * [activity](https://github.com/nextcloud/activity) - Activity app for NC
@@ -50,6 +52,8 @@ We encourage looking at some of the tools that are still under development or ha
 * [weather](https://github.com/nextcloud/weather) - Weather app for NC
 
 ## Themes
+* [LSD](https://github.com/jancborchardt/lsd) - A LSD theme for NC
+* [nextcloud-userstyles](https://github.com/Lucidiot/nextcloud-userstyles) - A collection of css userstyles for NC
 * [nextcloud-themes](https://github.com/Chais/nextcloud-themes) - A collection of themes for NC
 
 ### Images
@@ -64,8 +68,8 @@ We encourage looking at some of the tools that are still under development or ha
 * [passman-webextension](https://github.com/nextcloud/passman-webextension) - Passman in browsers
 
 ## Sync
+* [AlephNote](https://github.com/Mikescher/AlephNote) -Lightweight note taking client for Simplenote or Standard Notes 
 * [Joyread](https://github.com/joyread/server) - A self-hosted ebook library that can be synced with NC (*Under Development*)
-
 
 ### Misc /Plugins
 * [owncloud-web-migrator](https://github.com/nextcloud/owncloud-web-migrator) - Migrate from OC to NC
