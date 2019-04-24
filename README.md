@@ -55,7 +55,7 @@ We encourage looking at some of the tools that are still under development or ha
 * [LSD](https://github.com/jancborchardt/lsd) - A LSD theme for NC
 * [nextcloud-userstyles](https://github.com/Lucidiot/nextcloud-userstyles) - A collection of css userstyles for NC
 * [nextcloud-themes](https://github.com/Chais/nextcloud-themes) - A collection of themes for NC
-
+* [nextcloud-news-themes](https://github.com/cwmke/nextcloud-news-themes) - A list of themes for Nextcloud News
 ### Images
 * [docker](https://github.com/nextcloud/docker) - Docker image of NC
 * [nextcloud-snap](https://github.com/nextcloud/nextcloud-snap) - NC snap package
