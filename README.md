@@ -17,6 +17,7 @@ We encourage looking at some of the tools that are still under development or ha
 * [vinecellar](https://github.com/ChristophWurst/vinecellar) - A simple vine downloader for NC
 ##### Under Development / Updates Needed
 * [galleryplus](https://github.com/oparoz/galleryplus) - Extended gallery app for NC  (*Updates Needed*)
+* [mindmaps](https://github.com/splitt3r/mindmaps) - Mindmaps app for Nextcloud... (*Updates Needed /deprecated*)
 * [nextcloud-paper](https://github.com/andreasjacobsen93/nextcloud-paper) - Instapaper clone for NC (*Updates Needed / deprecated*)
 * [nextcloud-terminal](https://github.com/gabor-udvari/nextcloud-terminal) - Xterm compatible terminal for NC (*Updates Needed / deprecated*)
 * [nextcloud-money](https://github.com/powerpaul17/nc_money) - Money app based on GnuCash for NC (*deprecated*)
