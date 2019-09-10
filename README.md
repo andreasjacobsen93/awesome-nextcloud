@@ -23,8 +23,11 @@ We encourage looking at some of the tools that are still under development or ha
 * [nextcloud-money](https://github.com/powerpaul17/nc_money) - Money app based on GnuCash for NC (*deprecated*)
 * [NextNote](https://github.com/brantje/nextnote) - Evernote / OneNote style WYSIWYG note editor for NC (*Alpha Stage*)
 * [personalfinances](https://github.com/matiasdelellis/personalfinances) - Finance manager for NC (*Updates Needed /deprecated*)
-* [photomap](https://github.com/doc-sebastian/PhotoMap) - App for Nextcloud, that shows geotagged photos on a map (*Updates Needed*)
+* [photomap](https://github.com/doc-sebastian/PhotoMap) - App for Nextcloud, that shows geotagged photos on a map (*updates Needed*)
 * [sketch](https://github.com/ChristophWurst/sketch) - A sketching app for NC (*deprecated*)
+* [NextTorrent](https://github.com/self20/NextTorrent) - Nextcloud Torrent Manager (*deprecated*)
+* [transmissionremote](https://github.com/jure965/transmissionremote) - Provides remote access for Transmission (*updtes Needed*)
+
 
 ### Official
 * [activity](https://github.com/nextcloud/activity) - Activity app for NC
