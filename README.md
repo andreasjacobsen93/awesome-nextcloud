@@ -7,7 +7,7 @@ List of awesome tools for NextCloud and OwnCloud
 * [locationtracker](https://github.com/schiessle/locationtracker) - Track devices with ownTracks
 * [nextcloud-keeweb](https://github.com/jhass/nextcloud-keeweb) - A KeePass password manager in NC
 * [nextcloud-paper](https://github.com/andreasjacobsen93/nextcloud-paper) - Instapaper clone for NC (*deprecated*)
-* [nextcloud-terminal](https://github.com/gabor-udvari/nextcloud-terminal) - Xterm compatible terminal for NC
+* [nextcloud-terminal](https://github.com/gabor-udvari/nextcloud-terminal) - Xterm compatible terminal for NC (*pre-alpha*)
 * [nextcloudTaskToMap](https://github.com/valentinbonneaud/nextcloudTaskToMap) - Display a map with the locations from tasks
 * [ocr](https://github.com/janis91/ocr) - OCR processing for images and PDF in NC
 * [personalfinances](https://github.com/matiasdelellis/personalfinances) - Finance manager for NC
