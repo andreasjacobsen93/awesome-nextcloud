@@ -1,4 +1,6 @@
 # awesome-nextcloud
+Warning: Many of these might be outdated or deprecated.
+
 List of awesome tools for NextCloud and OwnCloud
 
 ## Apps
