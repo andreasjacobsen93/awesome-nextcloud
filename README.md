@@ -1,4 +1,6 @@
 # awesome-nextcloud
+Warning: Many of these might be outdated or deprecated.
+
 List of awesome tools for NextCloud and OwnCloud
 
 We encourage looking at some of the tools that are still under development or have been deprecated and consider forking
@@ -7,6 +9,8 @@ We encourage looking at some of the tools that are still under development or ha
 * [Afterlogic-nextcloud-connector](https://github.com/afterlogic/nextcloud-connector) - Intergration with Afterlogic webmail
 * [Face-Recognition](https://github.com/matiasdelellis/facerecognition) - Face recognition software for NC
 * [nextcloud-keeweb](https://github.com/jhass/nextcloud-keeweb) - A KeePass password manager in NC
+* [nextcloud-paper](https://github.com/andreasjacobsen93/nextcloud-paper) - Instapaper clone for NC (*deprecated*)
+* [nextcloud-terminal](https://github.com/gabor-udvari/nextcloud-terminal) - Xterm compatible terminal for NC (*pre-alpha*)
 * [nextcloudTaskToMap](https://github.com/valentinbonneaud/nextcloudTaskToMap) - Display a map with the locations from tasks
 * [ocr](https://github.com/janis91/ocr) - OCR processing for images and PDF in NC
 * [PhoneTrack](https://gitlab.com/eneiluj/phonetrack-oc) - Uses tracking sessions to display phones position in real time and export activity to gpx for NC
