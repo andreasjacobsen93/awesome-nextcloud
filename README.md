@@ -17,6 +17,7 @@ We encourage looking at some of the tools that are still under development or ha
 * [quicknotes](https://github.com/matiasdelellis/quicknotes) - Notes app for NC
 * [Roundcube-Plugin-nextCloud](https://github.com/texxasrulez/Roundcube-Plugin-nextCloud) - Open nextcloud from Roundcub
 * [searchlight](https://github.com/icewind1991/searchlight) - Fuzzy search for NC
+* [ShareRenamer](https://github.com/DecaTec/sharerenamer) - Rename shared links
 * [timetracker](https://github.com/jakobsack/timetracker) - A time tracker for nextcloud
 * [vinecellar](https://github.com/ChristophWurst/vinecellar) - A simple vine downloader for NC
 ##### Under Development / Updates Needed
