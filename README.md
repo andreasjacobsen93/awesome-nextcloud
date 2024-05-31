@@ -81,6 +81,7 @@ We encourage looking at some of the tools that are still under development or ha
 * [Joyread](https://github.com/joyread/server) - A self-hosted ebook library that can be synced with NC (*Under Development*)
 
 ### Misc /Plugins
+* [Cloud Seeder](https://ipv6.rs/cloudseeder) - 1-click deployment and management suite for NC. Run NC hands free!
 * [owncloud-web-migrator](https://github.com/nextcloud/owncloud-web-migrator) - Migrate from OC to NC
 * [php-static-scanner-instrumentalization](https://github.com/nextcloud/php-static-scanner-instrumentalization) - Instrumentalizes the NC PHP code to be scanned with static PHP source code scanners
 
