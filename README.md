@@ -79,6 +79,7 @@ We encourage looking at some of the tools that are still under development or ha
 ## Sync
 * [AlephNote](https://github.com/Mikescher/AlephNote) -Lightweight note taking client for Simplenote or Standard Notes 
 * [Joyread](https://github.com/joyread/server) - A self-hosted ebook library that can be synced with NC (*Under Development*)
+* [Nimbo](https://github.com/otherworld-dev/Nimbo) - Native Windows sync client with on-demand files (Explorer placeholders), real-time sync via notify_push, and Nextcloud apps in their own desktop windows. Free for personal use (source-available, PolyForm Noncommercial).
 
 ### Misc /Plugins
 * [owncloud-web-migrator](https://github.com/nextcloud/owncloud-web-migrator) - Migrate from OC to NC
