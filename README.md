@@ -91,9 +91,6 @@ We encourage looking at some of the tools that are still under development or ha
 * [Android](https://github.com/nextcloud/android) - NC Android app
 * [ios](https://github.com/nextcloud/ios) - NC iOS app
 * [windows-universal](https://github.com/nextcloud/windows-universal) - NC Windows apps
-  
-##### Nimbo
-* [Windows](https://github.com/otherworld-dev/Nimbo) - Native NC Windows sync client with on-demand files
 
 ##### Nextcloud Notes
 * [Android](https://github.com/stefan-niedermann/nextcloud-notes) - NC Android app
