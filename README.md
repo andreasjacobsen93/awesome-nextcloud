@@ -91,7 +91,12 @@ We encourage looking at some of the tools that are still under development or ha
 * [Android](https://github.com/nextcloud/android) - NC Android app
 * [ios](https://github.com/nextcloud/ios) - NC iOS app
 * [windows-universal](https://github.com/nextcloud/windows-universal) - NC Windows apps
-* [Windows](https://github.com/otherworld-dev/Nimbo) - "Native NC Windows sync client with on-demand files" notify_push, and Nextcloud apps in their own desktop windows. Free for personal use (source-available, PolyForm Noncommercial).
+  
+##### Nimbo
+* [Windows](https://github.com/otherworld-dev/Nimbo) - Native NC Windows sync client with on-demand files
 
 ##### Nextcloud Notes
 * [Android](https://github.com/stefan-niedermann/nextcloud-notes) - NC Android app
+
+##### Nimbo
+* [Windows](https://github.com/otherworld-dev/Nimbo) - Native NC Windows sync client with on-demand files
