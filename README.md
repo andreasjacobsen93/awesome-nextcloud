@@ -65,13 +65,14 @@ We encourage looking at some of the tools that are still under development or ha
 * [nextcloud-userstyles](https://github.com/Lucidiot/nextcloud-userstyles) - A collection of css userstyles for NC
 * [nextcloud-themes](https://github.com/Chais/nextcloud-themes) - A collection of themes for NC
 * [nextcloud-news-themes](https://github.com/cwmke/nextcloud-news-themes) - A list of themes for Nextcloud News
-### Images
+
+## Images
 * [docker](https://github.com/nextcloud/docker) - Docker image of NC
 * [nextcloud-snap](https://github.com/nextcloud/nextcloud-snap) - NC snap package
 * [spreedme-snap](https://github.com/nextcloud/spreedme-snap) - Setup spreed in NC
 * [vm](https://github.com/nextcloud/vm) - Official NC virtual machine
 
-### Extensions
+## Extensions
 * [floccus](https://github.com/marcelklehr/floccus) - Sync your browser with NC
 * [nextcloud-filelink](https://github.com/nextcloud/nextcloud-filelink) - Thunderbird extension which makes it easy to send large attachments
 * [passman-webextension](https://github.com/nextcloud/passman-webextension) - Passman in browsers
@@ -79,21 +80,17 @@ We encourage looking at some of the tools that are still under development or ha
 ## Sync
 * [AlephNote](https://github.com/Mikescher/AlephNote) -Lightweight note taking client for Simplenote or Standard Notes 
 * [Joyread](https://github.com/joyread/server) - A self-hosted ebook library that can be synced with NC (*Under Development*)
+* [Nimbo](https://github.com/otherworld-dev/Nimbo) - Native NC Windows sync client with on-demand files
 
-### Misc /Plugins
+## Misc /Plugins
 * [owncloud-web-migrator](https://github.com/nextcloud/owncloud-web-migrator) - Migrate from OC to NC
 * [php-static-scanner-instrumentalization](https://github.com/nextcloud/php-static-scanner-instrumentalization) - Instrumentalizes the NC PHP code to be scanned with static PHP source code scanners
 
-### Apps
-##### My Own notes 2
-* [Android](https://github.com/aykit/MyOwnNotes) - OC Android app
-##### Nextcloud
-* [Android](https://github.com/nextcloud/android) - NC Android app
-* [ios](https://github.com/nextcloud/ios) - NC iOS app
-* [windows-universal](https://github.com/nextcloud/windows-universal) - NC Windows apps
-
-##### Nextcloud Notes
-* [Android](https://github.com/stefan-niedermann/nextcloud-notes) - NC Android app
-
-##### Nimbo
-* [Windows](https://github.com/otherworld-dev/Nimbo) - Native NC Windows sync client with on-demand files
+## Nextcloud Applications
+#### Notes
+* [Android](https://github.com/aykit/MyOwnNotes) - OwnCloud Android app
+* [Android](https://github.com/stefan-niedermann/nextcloud-notes) - Nextcloud Android app
+#### Nextcloud
+* [Android](https://github.com/nextcloud/android) - Nextcloud Android app
+* [ios](https://github.com/nextcloud/ios) - Nextcloud iOS app
+* [windows-universal](https://github.com/nextcloud/windows-universal) - Nextcloud Windows apps
