@@ -30,7 +30,7 @@ We encourage looking at some of the tools that are still under development or ha
 * [photomap](https://github.com/doc-sebastian/PhotoMap) - App for Nextcloud, that shows geotagged photos on a map (*updates Needed*)
 * [sketch](https://github.com/ChristophWurst/sketch) - A sketching app for NC (*deprecated*)
 * [NextTorrent](https://github.com/self20/NextTorrent) - Nextcloud Torrent Manager (*deprecated*)
-* [transmissionremote](https://github.com/jure965/transmissionremote) - Provides remote access for Transmission (*updtes Needed*)
+* [transmissionremote](https://github.com/jure965/transmissionremote) - Provides remote access for Transmission (*updates Needed*)
 
 
 ### Official
