@@ -76,6 +76,7 @@ We encourage looking at some of the tools that are still under development or ha
 * [floccus](https://github.com/marcelklehr/floccus) - Sync your browser with NC
 * [nextcloud-filelink](https://github.com/nextcloud/nextcloud-filelink) - Thunderbird extension which makes it easy to send large attachments
 * [passman-webextension](https://github.com/nextcloud/passman-webextension) - Passman in browsers
+* [A-deck](https://github.com/leoossa/A-deck) - A-deck sends any webpage (or its part using Xpath selectors) to your Deck on your Nextcloud instance by creating a card
 
 ## Sync
 * [AlephNote](https://github.com/Mikescher/AlephNote) -Lightweight note taking client for Simplenote or Standard Notes 
