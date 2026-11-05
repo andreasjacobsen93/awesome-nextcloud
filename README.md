@@ -98,4 +98,4 @@ We encourage looking at some of the tools that are still under development or ha
 #### Deck
 * [Android](https://github.com/stefan-niedermann/nextcloud-deck) - Nextcloud Deck Android app
 * [iOS](https://github.com/holger-dev/nextdeck) - Next Deck, a Nextcloud Deck iOS app
-* [iOS, macOS, Windows, Linux](https://deckloud.com) - Deckloud, a Nextcloud Deck client (proprietary, free with an optional one-time Pro upgrade)
+* [iOS, Android, macOS, Windows, Linux](https://deckloud.com) - Deckloud, a Nextcloud Deck client (proprietary, free core with optional Pro, one-time or subscription)
