@@ -8,6 +8,7 @@ We encourage looking at some of the tools that are still under development or ha
 ### Unofficial
 * [Afterlogic-nextcloud-connector](https://github.com/afterlogic/nextcloud-connector) - Intergration with Afterlogic webmail
 * [Face-Recognition](https://github.com/matiasdelellis/facerecognition) - Face recognition software for NC
+* [HealthCheck](https://github.com/Mikweb2025-design/healthcheck) - Private health dashboard from Apple Health exports (rings, trends, doctor report) for NC
 * [nextcloud-keeweb](https://github.com/jhass/nextcloud-keeweb) - A KeePass password manager in NC
 * [nextcloud-paper](https://github.com/andreasjacobsen93/nextcloud-paper) - Instapaper clone for NC (*deprecated*)
 * [nextcloud-terminal](https://github.com/gabor-udvari/nextcloud-terminal) - Xterm compatible terminal for NC (*pre-alpha*)
@@ -17,6 +18,7 @@ We encourage looking at some of the tools that are still under development or ha
 * [quicknotes](https://github.com/matiasdelellis/quicknotes) - Notes app for NC
 * [Roundcube-Plugin-nextCloud](https://github.com/texxasrulez/Roundcube-Plugin-nextCloud) - Open nextcloud from Roundcub
 * [searchlight](https://github.com/icewind1991/searchlight) - Fuzzy search for NC
+* [TimeGuardian](https://github.com/Mikweb2025-design/timeguardian) - Working time tracking by rotating kiosk QR code and phone PWA for NC
 * [timetracker](https://github.com/jakobsack/timetracker) - A time tracker for nextcloud
 * [vinecellar](https://github.com/ChristophWurst/vinecellar) - A simple vine downloader for NC
 ##### Under Development / Updates Needed
@@ -86,6 +88,8 @@ We encourage looking at some of the tools that are still under development or ha
 ## Misc /Plugins
 * [owncloud-web-migrator](https://github.com/nextcloud/owncloud-web-migrator) - Migrate from OC to NC
 * [php-static-scanner-instrumentalization](https://github.com/nextcloud/php-static-scanner-instrumentalization) - Instrumentalizes the NC PHP code to be scanned with static PHP source code scanners
+* [Nextcloud check](https://daniele-michelin.com/en/tools/nextcloud-check/) - Free online check of a NC instance from outside: version, end of life, exposed config.php, data/ or .git
+* [Nextcloud nginx config generator](https://daniele-michelin.com/en/tools/nextcloud-nginx-config-generator/) - Generates a complete nginx config for NC with PHP-FPM, TLS, HSTS and security headers, in the browser
 
 ## Nextcloud Applications
 #### Notes
